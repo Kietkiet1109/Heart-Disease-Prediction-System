@@ -1,0 +1,13 @@
+Stacked Model (stacked_model.py) which includes:
+    Logistic Regression Model
+    Decision Tree Classifier
+    Random Forest Classifier
+    SGD Classifier
+    Support Vector Classifier
+    K Neighbors Classifier
+    Ridge Classifier
+    Ada Boost Classifier
+    Gradient Boosting Classifier
+    XG Boost Classifier
+Artificial Neural Network Model (ann_model.py)
+MLP Classifier (mlp_classifier.py)
