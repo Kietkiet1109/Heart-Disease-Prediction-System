@@ -2,7 +2,7 @@ import joblib
 from sklearn import metrics
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
-from data_preprocess import *
+from data_transformation import *
 
 # Global variables
 TEST_PATH = "HeartRisk_Test.csv"
